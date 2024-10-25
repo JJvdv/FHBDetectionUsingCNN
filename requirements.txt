@@ -1,0 +1,9 @@
+Django
+fastapi
+uvicorn
+requests
+torch
+torchvision
+pandas
+scikit-learn
+matplotlib

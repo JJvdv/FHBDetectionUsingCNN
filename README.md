@@ -8,5 +8,5 @@ Using a Convolutional Neural Network to detect FHB on crops taken by Hyperspectr
 
 
 # Model Predictions & Training Evaluation
-![model predictions](model_predictions.png)
+![model predictions](model_predictions.PNG)
 ![model evaluation](Training & Eval Metric with CNN.png)
